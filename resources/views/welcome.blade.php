@@ -20,8 +20,8 @@
                     Country Code Picker Api
                 </div>
                 <div class="links">
-                    <a href="https://laravel.com/docs">Docs</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://github.com/adenuga558/CountryCodePickerApi/blob/master/README.md">Docs</a>
+                    <a href="https://github.com/adenuga558/CountryCodePickerApi">GitHub</a>
                 </div>
 
 
